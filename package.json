@@ -16,7 +16,7 @@
   "author": "nahidf",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.17.1",
     "grunt": "0.4.5",
     "grunt-cli": "^0.1.13",
     "grunt-msdeploy": "0.1.3",
